@@ -96,16 +96,22 @@
       <h4 class="FooFlipper">That's all for now, Thank You For Reading :)
         <rs id="baloon">- Satori 
 
-<g1> Sunglasses </g1>
 <p id="description"></p>
-<button type="button" onclick="document.write(24+11)">Click me I have a Number</button>
+
+<label for="userinput" Please Enter your name></label>
+<input type="text" id="userinput" name="userinput">
+<button onclick="getvalue()">Submit</button>
+
 <script>
 
- document.getelementbyid("description").innerHTML="<g2>I am a novice coder</g2>"
+document.getelementbyid("description").innerHTML="<g2>I am a novice coder</g2>"
+
+function getvalue(){
+let inputElement = document.getElementById("userinput");
+let inputValue = inputElement.value;
+console.log("you entered:" + inputValue)
+}
 
 </script>
-
-
-
 </body>
 </html>
