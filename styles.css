@@ -1,0 +1,92 @@
+h2{
+    color: magenta;
+  }
+  
+  body{
+    background-color: black;
+    color: white;
+  }
+  
+  img{
+    padding: 25px;
+  }
+  
+  .FooFlipper{
+    color: red;
+    text-align: center;
+    border-style: inset;
+    border-color: red;
+    font-size: 30px;
+  }
+  
+  #baloon{
+    color: blue;
+  }
+  
+  h5{
+    text-align: right;
+    font-size: 19px;
+    color: white;
+  }
+  
+  h6{
+    text-align: right;
+      font-size: 23px;
+    color: yellow;
+  }
+  
+  h7{
+    text-align: center;
+      font-size: 25px;
+   color: red;
+  }
+  
+  
+  j1{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  j2{
+    color: red;
+    text-align: center;
+    font-size: 30px
+  }
+  
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  
+  .skunk{
+    color: black;
+    text-align: center;
+    border-style: double;
+    border-color: black;
+    font-size: 30px;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  
