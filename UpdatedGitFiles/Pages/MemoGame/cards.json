@@ -1,0 +1,50 @@
+[
+    {
+        "image": "memorygame/DeathStrandingIconForCardGame.png",
+        "name": "Death Stranding"
+    },
+    {
+        "image": "memorygame/TWDTelltaleIconForCardGame.png",
+        "name": "Telltale Walking Dead"
+    },
+    {
+        "image": "memorygame/RDR2IconForCardGame.jpg",
+        "name": "Red Dead Redemption 2"
+    },
+    {
+        "image": "memorygame/SkylandersIconForCardGame.png",
+        "name": "Skylanders"
+    },
+    {
+        "image": "memorygame/SkyrimIconForCardGame.png",
+        "name": "Skyrim"
+    },
+    {
+        "image": "memorygame/FalloutNewVegasIconForCardGame.png",
+        "name": "Fallout New Vegas"
+    },
+    {
+        "image": "memorygame/LastOfUsIconForCardGame.png",
+        "name": "Last of Us"
+    },
+    {
+        "image": "memorygame/HaloIconForCardGame.png",
+        "name": "Halo"
+    },
+    {
+        "image": "memorygame/DoomEternalIconForCardGame.png",
+        "name": "Doom Eternal"
+    },
+    {
+        "image": "memorygame/DarkSoulsIconForCardGame.png",
+        "name": "Dark Souls"
+    },
+    {
+        "image": "memorygame/EldenRingIconForCardGame.png",
+        "name": "Elden Ring"
+    },
+    {
+        "image": "memorygame/Destiny2IconForCardGame.png",
+        "name": "Destiny 2"
+    }
+]
