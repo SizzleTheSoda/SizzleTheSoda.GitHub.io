@@ -99,11 +99,6 @@ h2{
   li{
     display: inline;
   }
-
-  .flex-container {
-    display: flex;
-    background-color: black;
-  }
   
   .flex-container > div {
     background-color: black;
