@@ -100,4 +100,7 @@ h2{
     display: inline;
   }
 
+.flex-container {
+  display: flex;
+}
   
