@@ -99,4 +99,9 @@ h2{
   li{
     display: inline;
   }
-  
+
+  .container{
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+  }
