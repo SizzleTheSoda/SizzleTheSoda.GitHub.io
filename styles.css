@@ -100,8 +100,8 @@ h2{
     display: inline;
   }
 
-  .container{
+  .flex-container {
     display: flex;
-    flex-direction: row;
-justify-content: space-around;
+    justify-content: space-around;
+    align-items: baseline;
   }
