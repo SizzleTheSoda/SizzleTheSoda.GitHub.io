@@ -1,1 +1,0 @@
-document.getElementById('description').innerHTML="<h2> I am A novice coder</h2>"
