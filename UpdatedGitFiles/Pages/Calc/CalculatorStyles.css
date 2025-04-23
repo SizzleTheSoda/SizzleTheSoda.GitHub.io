@@ -45,7 +45,8 @@
 body{
   background-repeat: no-repeat;
   background-image: url("https://www.tivoly.com/media/cache/resolve/ambiance_news_large/upload/media/ambiance_news/0001/01/5929e2d021c3be4e97483f204ca1fb2abd905a6a.jpeg");
-background-position: center;
+  background-position: center;
+  background-color: #000;
 }
 
 
