@@ -24,6 +24,7 @@ body{
 }
 
 p{
+  font-weight: bold;
 font-family: "Brush Script MT", "Lucida Handwriting", Cursive;
 display: inline-block;
 position: relative;
