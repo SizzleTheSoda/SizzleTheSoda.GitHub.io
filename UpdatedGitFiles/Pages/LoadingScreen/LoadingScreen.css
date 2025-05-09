@@ -1,9 +1,9 @@
 @keyframes example {
-  0%   {background-color:red; left:150px; top:0px;}
+  0%   {background-color:red; left:150px; top:50px;}
   25%  {background-color:yellow; left:150px; top:200px;}
-  50%  {background-color:blue; left:-200px; top:200px;}
-  75%  {background-color:green; left:-200px; top:0px;}
-  100% {background-color:red; left:150px; top:0px;}
+  50%  {background-color:blue; left:-200px; top:50px;}
+  75%  {background-color:green; left:-200px; top:200px;}
+  100% {background-color:red; left:150px; top:50px;}
 }
 
 /* The element to apply the animation to */
@@ -24,7 +24,7 @@ body{
 }
 
 p{
-  font-weight: bold;
+font-weight: bold;
 font-family: "Brush Script MT", "Lucida Handwriting", Cursive;
 display: inline-block;
 position: relative;
